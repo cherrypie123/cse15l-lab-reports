@@ -1,7 +1,7 @@
 hello
 # Installing VSCode
 - For installing VSCode, I went on the link https://code.visualstudio.com/ and click on the "Download for Windows" button. 
-- 
+
 ![screenshot 1673481015](https://user-images.githubusercontent.com/122495762/211942578-5e1ad85f-a9e1-425c-afe8-2cfc6ccb718f.jpg)
 ![image](https://user-images.githubusercontent.com/122495762/211948204-380294e5-e9f4-4f2d-a987-7630251b87ad.png)
 
