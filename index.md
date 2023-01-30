@@ -11,7 +11,7 @@ hello
 ![screenshot 1673481250](https://user-images.githubusercontent.com/122495762/211943044-1ec0024b-ccdc-4441-aac0-1767d940c301.jpg)
 
 # Remotely Connecting
-- When I'm already on VSCode, I use Ctrl + Shift + "`" to open the terminal, and since I can't open git bash after following the instructions through the link [https://stackoverflow.com/a/50527994[ ]](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994). I just open git bash app and use 'ssh cs15lwi23adt@ieng6.ucsd.edu' there. 
+- When I'm already on VSCode, I use Ctrl + Shift + "`" to open the terminal, and since I can't open git bash after following the instructions through the link [https://stackoverflow.com/a/50527994[ ]](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994). I just open git bash app and use '''ssh cs15lwi23adt@ieng6.ucsd.edu''' there. 
 
 ![image](https://user-images.githubusercontent.com/122495762/211944668-ab81c525-8733-435b-b9c2-3ead9adfa9cd.png)
 
